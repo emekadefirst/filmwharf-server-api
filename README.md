@@ -26,7 +26,7 @@
 
  <h3>How to consume API endpoints</h3>
 
-    /api (Movie List Endpoint)
+    GET /api (Movie List Endpoint)
 
       {
         "id": 1,
